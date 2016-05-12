@@ -1,0 +1,24 @@
+teht 1.
+b) Paketteja lähetettiin 4, vastaanotettiin 3.
+
+teht 2.
+b) paketteja lähetettiin yhdeksän, vastaanotettiin 5
+c) 14
+
+teht 3.
+a) 3 get viestiä
+b) kaksi ensimmäistä osoitteeseen 130.234.10.207 
+  ja viimeinen osoitteeseen 130.234.4.129
+c) Ainakin kuvien data tuli eri portteihin, siitä voisi päätellä että rinnakkain.
+
+teht 4.
+a) 401 Authorization required for ITKP104 password test (text/html)
+b) Nyt en ole ihan varma näistä, mutta olisiko:
+otsikkokenttä: ITKP104 tietoverkot
+autentikointi: basic
+koodaus: chunked
+d)digest-autentikointi esimerkiksi
+
+teht 5.
+Paketteja lähetettiin 42.
+Käyttöjärjestelmänä minulla on Windows 8.
